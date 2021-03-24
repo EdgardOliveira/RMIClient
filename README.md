@@ -47,9 +47,9 @@
 
 ## Imagens do Layout da Aplicação
 
-<img src="https://github.com/EdgardOliveira/RMIClient/blob/main/imagens/recibo.png" alt="app"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/RMIClient/blob/main/imagens/recibo.png" alt="app"  height="610" width="530">
 
-<img src="https://github.com/EdgardOliveira/RMIClient/blob/main/imagens/entradadados.png" alt="login"  height="500" width="300">
+<img src="https://github.com/EdgardOliveira/RMIClient/blob/main/imagens/entradadados.png" alt="login"  height="610" width="530">
 
 ## Pré-requisitos
 
