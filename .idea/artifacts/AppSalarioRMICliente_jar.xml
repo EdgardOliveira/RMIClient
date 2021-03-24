@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AppSalarioRMICliente:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AppSalarioRMICliente_jar</output-path>
+    <root id="archive" name="AppSalarioRMICliente.jar">
+      <element id="module-output" name="AppSalarioRMICliente" />
+    </root>
+  </artifact>
+</component>
